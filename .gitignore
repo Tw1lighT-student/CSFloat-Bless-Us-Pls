@@ -1,0 +1,12 @@
+EOF
+__pycache__/
+*.pyc
+.env
+venv/
+.idea/
+*.sqlite
+*.log
+.db
+*.iml
+storage/data.json
+EOF
